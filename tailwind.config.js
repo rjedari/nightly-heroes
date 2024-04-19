@@ -5,7 +5,9 @@ module.exports = {
     './src/**/*.{js,jsx,ts,tsx,vue}',
   ],
   theme: {
-    // ...
+  //  maxWidth:{
+  //     'costum' : '1780px'
+  //   }
   }
   // ...
 }
